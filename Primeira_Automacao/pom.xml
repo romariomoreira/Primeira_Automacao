@@ -3,4 +3,17 @@
   <groupId>br.com.Automacao</groupId>
   <artifactId>Primeira_Automacao</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>3.14.0</version>
+</dependency>
+  
+  
+  </dependencies>
+  
+  
 </project>
