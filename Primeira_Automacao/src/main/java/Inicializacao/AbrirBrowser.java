@@ -1,6 +1,7 @@
 package Inicializacao;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class AbrirBrowser {
@@ -14,7 +15,7 @@ public class AbrirBrowser {
 		driver = new ChromeDriver();
 		driver.get("https://www.google.com.br");
 		
-		
+				
 		
 		
 
